@@ -326,7 +326,7 @@ La línea `self.state('zoomed')` solo funciona en Windows. En Linux/Mac, la vent
 
 ## 👥 Créditos
 
-**Desarrollador**: Paola García  
+**Desarrollador**: Sebastian forero y Paola García  
 **Institución**: Centro de Estudios Científicos y Tecnológicos del Estado de México  
 **Programa**: Técnico en Programación  
 **Módulo**: Emplea metodologías ágiles para el desarrollo de software
