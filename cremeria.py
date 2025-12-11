@@ -128,8 +128,8 @@ class CremeriaApp(tk.Tk):
         self.product_images = {}
         self.cart_images = {}
 
-        # Cargar imagen por defecto (si existe)
-        self.default_image = self._load_image("images/no_image.png", (180, 180))
+        # Cargar imagen por defecto
+        self.default_image = self._load_image("images/logo.png", (180, 180))
 
         print("Mostrando pantalla de login...")
         self.show_login()
